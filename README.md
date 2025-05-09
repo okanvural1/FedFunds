@@ -6,7 +6,7 @@ This project was a part of a larger project when applying to Pace's Federal Rese
 
    
 ![Fed Rate vs Commercial Paper](fed_vs_commercial_paper_final.png)
-![Fed rate vs Mortage Rate](fed_vs_mortgage.png)
+![Fed rate vs Mortage Rate](fed_vs_mortgage_final.png)
    
 6. Instructions to Run Locally: Provide clear steps to set up and run the project locally.
 
