@@ -37,6 +37,11 @@ Include a video walkthrough and/or screenshots of the project:
 
 # Code Structure Breakdown
 **Where should someone look to see the core logic or features you implemented?**
+![Step 1](RequiredInstalls_and_API_key_R.png)  
+![Step 2](HowToFetchDataR.png)  
+![Step 3](HowToCeateSpacingR.png)  
+![Step 4](HowToThemeR.png)  
+![Step 5](HowToSaveRplot.png)  
 
 - `scripts/` – R scripts used for data retrieval and plotting  
 - `visuals/` – Final PNG images used in the presentation  
