@@ -5,6 +5,9 @@ This project was a part of a larger project when applying to Pace's Federal Rese
 4. Video or Screenshots: Include a video walkthrough and/or screenshots of the project.
 
    
+![Fed Rate vs Commercial Paper](fed_vs_commercial_paper_final.png)
+![Fed rate vs Mortage Rate](fed_vs_mortgage.png)
+   
 6. Instructions to Run Locally: Provide clear steps to set up and run the project locally.
 
    
