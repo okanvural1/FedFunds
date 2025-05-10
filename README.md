@@ -37,32 +37,94 @@ Include a video walkthrough and/or screenshots of the project:
 
 # Code Structure Breakdown
 **Where should someone look to see the core logic or features you implemented?**
-![Step 1](RequiredInstalls_and_API_key_R.png)  
-![Step 2](HowToFetchDataR.png)  
-![Step 3](HowToCeateSpacingR.png)  
-![Step 4](HowToThemeR.png)  
-![Step 5](HowToSaveRplot.png)  
+<br/>
+<br/>
+<br/>
+
+
+### Step 1
+This step shows the required installations as well as the API key that gets fetched. It also has the recession date markers which create a layout for the graph
+<img src="RequiredInstalls_and_API_key_R.png" width="500" height="500"/>
+
+
+<br/>
+<br/>
+<br/>
+
+
+### Step 2
+This step shows which data sets are fetched and then creates date indicators. These date indicators are not only important in getting the data from a certain time period but also helps with formatting 
+
+<img src="HowToFetchDataR.png" width="700" height="500"/>
+
+
+<br/>
+<br/>
+<br/>
+
+### Step 3
+This step shows how spacing is created. Dates are marked every five years. This creates the width of the graph. The labels are assigned to either the x or y axis, and important step to ensure the graph is readable
+
+<img src="HowToCeateSpacingR.png" width="500" height="500"/>
+
+
+<br/>
+<br/>
+<br/>
+
+
+### Step 4
+This step applies the theme to the whole graph. Applying the theme "economist" took my graphs from looking bland, to almost exact copies of graphs that are viewable on the FED website.
+
+<img src="HowToThemeR.png" width="600" height="500"/>
+
+<br/>
+<br/>
+<br/>
+
+### Step 5
+This is the final step and ensures that when you run the code, a PNG is saved to your computer.
+
+<img src="HowToSaveRplot.png" width="700" height="500"/>
+
+<br/>
+<br/>
+<br/>
 
 - `scripts/` – R scripts used for data retrieval and plotting  
 - `visuals/` – Final PNG images used in the presentation  
 - `README.md` – Project documentation
 
+<br/>
+<br/>
+<br/>
+
+
 # Challenges / Learnings from the Project
 
 ## What was the most challenging part of this project?
+- Teaching myself R
+     -prior to this project I had never used R before, I had to go from zero to hero
 - Learning to use the FRED API efficiently  
 - Designing visuals that are both clear and visually appealing
+- Creating the graphs required hours of running the program and making slight changes
+- the slightest change in date markers or axis markers can completely change the whoe graph
 
 ## What did you learn from building this project? How does it contribute to your career goals?
-- Practical experience using APIs in R  
+
+
+- How to code graphs in R
+- Practical experience using APIs in R
 - Improved ability to communicate economic concepts visually  
 - Enhanced skills in data storytelling for policy-oriented audiences
+- Patience 
 
 # Future Plans
 **What are your future plans for this project?**
 - Add interactive charts using Shiny or Plotly  
 - Include more data series and historical comparisons  
 - Automate regular updates for visualizations
+- I would like to continue learning R and apply it to business ideas I have 
 
 # FAQs or Additional Notes
 **Q: Can I use your code or visuals?**  
